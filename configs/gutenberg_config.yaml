@@ -1,0 +1,166 @@
+GUTENBERG:
+  URL : "https://gutendex.com/books/"
+  TEXT_TAG : "text/plain"
+  START_MARKER : "START OF THE PROJECT GUTENBERG EBOOK"
+  END_MARKER : "END OF THE PROJECT GUTENBERG EBOOK"
+
+AUTHORS:
+  austen_jane:
+    - 161
+    - 1342
+    - 105
+    - 158
+    - 121
+    - 141
+
+  dickens_charles:
+    - 46
+    - 98
+    - 1400
+    - 730
+    - 786
+    - 24022
+
+  doyle_arthurconan:
+    - 1661
+    - 244
+    - 2852
+    - 2097
+    - 834
+    - 108
+    - 139
+
+  twain_mark:
+    - 76
+    - 74
+    - 3176
+    - 1837
+    - 8525
+    - 245
+
+  london_jack:
+    - 215
+    - 910
+    - 1056
+    - 1074
+    - 710
+    - 1164
+
+  melville_herman:
+    - 21816
+    - 15859
+    - 34970
+
+  shelley_marywollstonecraft:
+    - 84
+    - 15238
+    - 18247
+
+  poe_edgarallan:
+    - 2147
+    - 2148
+    - 2151
+    - 2149
+    - 1065
+
+  collins_wilkie:
+    - 155
+    - 583
+    - 1438
+    - 1895
+
+  christie_agatha:
+    - 863
+    - 1155
+    - 58866
+    - 61262
+    - 69087
+
+  sayers_dorothyl:
+    - 58820
+    - 70008
+    - 70432
+    - 72855
+
+  carroll_lewis:
+    - 11
+    - 12
+    - 13
+    - 620
+    - 48630
+
+  stoker_bram:
+    - 345
+    - 1188
+    - 3781
+    - 3095
+    - 10150
+
+  stevenson_robertlouis:
+    - 43
+    - 120
+    - 421
+    - 848
+    - 864
+
+  kipling_rudyard:
+    - 236
+    - 1937
+    - 2226
+    - 2781
+    - 8147
+
+  eliot_george:
+    - 145
+    - 507
+    - 550
+    - 6688
+    - 7469
+
+  hardy_thomas:
+    - 107
+    - 110
+    - 122
+    - 143
+    - 153
+
+  james_henry:
+    - 208
+    - 209
+    - 1093
+    - 2833
+    - 2834
+
+  alcott_louisamay:
+    - 514
+    - 2726
+    - 2787
+    - 2788
+    - 3499
+
+  hawthorne_nathaniel:
+    - 33
+    - 77
+    - 508
+    - 513
+    - 13707
+
+  conrad_joseph:
+    - 219
+    - 974
+    - 1142
+    - 2021
+    - 5658
+
+  wilde_oscar:
+    - 173
+    - 111
+    - 902
+    - 709
+    - 14522
+
+  wells_hg:
+    - 36
+    - 35461
+    - 35
+    - 5230
